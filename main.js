@@ -70,7 +70,7 @@ const menu = [
         category: "China",
         price: 200,
         currency: "¥",
-        img: "",
+        img: "https://raw.githubusercontent.com/Overated/Asian-Kitchen/main/img/China/8-Peking%20Roast%20Duck.webp",
         desc: "The roast duck can be served with plum sauce or other fruit sauce.",
     },
     {
@@ -79,7 +79,7 @@ const menu = [
         category: "China",
         price: 20,
         currency: "¥",
-        img: "",
+        img: "https://raw.githubusercontent.com/Overated/Asian-Kitchen/main/img/China/9-Dan%20Dan%20Mian.jpg",
         desc: "Dan dan noodle, serving with green onion.",
     },
     {
@@ -88,7 +88,7 @@ const menu = [
         category: "China",
         price: 80,
         currency: "¥",
-        img: "",
+        img: "https://raw.githubusercontent.com/Overated/Asian-Kitchen/main/img/China/10-Yangzhou%20Fried%20Rice.jpg",
         desc: "Hot pepper sauce noodle, serving with soy bean and onion.",
     },
     {
@@ -97,7 +97,7 @@ const menu = [
         category: "China",
         price: 50,
         currency: "¥",
-        img: "",
+        img: "https://raw.githubusercontent.com/Overated/Asian-Kitchen/main/img/China/11-Hot%20Pot.JPG",
         desc: "A simmering pot of soup at with various raw ingredients—meat, seafood, vegetables, tofu, and starches.",
     },
     {
@@ -106,7 +106,7 @@ const menu = [
         category: "China",
         price: 50,
         currency: "¥",
-        img: "",
+        img: "https://raw.githubusercontent.com/Overated/Asian-Kitchen/main/img/China/12-Wonton%20Soup.webp",
         desc: "Seasoned chicken broth with filled wontons.",
     },
     // ---------------------------- Japan Foods ----------------------------
@@ -116,7 +116,7 @@ const menu = [
         category: "Japan",
         price: 500,
         currency: "¥",
-        img: "",
+        img: "https://raw.githubusercontent.com/Overated/Asian-Kitchen/main/img/Japan/13-Chicken%20Ramen.jpg",
         desc: "Chicken noodle soup, serving with vegetables such as soy bean, green onion. In an optional you can ask for egg.",
     },
     {
@@ -125,7 +125,7 @@ const menu = [
         category: "Japan",
         price: 200,
         currency: "¥",
-        img: "",
+        img: "https://raw.githubusercontent.com/Overated/Asian-Kitchen/main/img/Japan/14-Onigiri.jpeg",
         desc: "Rice Sandwich, serving with soy sauce.",
     },
     {
@@ -134,7 +134,7 @@ const menu = [
         category: "Japan",
         price: 50,
         currency: "¥",
-        img: "",
+        img: "https://raw.githubusercontent.com/Overated/Asian-Kitchen/main/img/Japan/15-Doroyaki.jpeg",
         desc: "Red bean paste dessert, serving with honey.",
     },
     {
@@ -143,8 +143,8 @@ const menu = [
         category: "Japan",
         price: 10000,
         currency: "¥",
-        img: "",
-        desc: ".",
+        img: "https://raw.githubusercontent.com/Overated/Asian-Kitchen/main/img/Japan/16-Sushi.jpg",
+        desc: "Medium-grained rice cooked in vinegar, served with raw or cooked seafood and a variety of toppings or fillings.",
     },
     {
         id: 17,
@@ -152,7 +152,7 @@ const menu = [
         category: "Japan",
         price: 150,
         currency: "¥",
-        img: "",
+        img: "https://raw.githubusercontent.com/Overated/Asian-Kitchen/main/img/Japan/17-Yakitori.jpg",
         desc: "Bite-sized cuts of chicken grilled on a skewer.",
     },
     {
@@ -161,7 +161,7 @@ const menu = [
         category: "Japan",
         price: 1250,
         currency: "¥",
-        img: "",
+        img: "https://raw.githubusercontent.com/Overated/Asian-Kitchen/main/img/Japan/18-Udon.jpg",
         desc: "A thick noodle made from wheat flour.",
     },
     {
@@ -170,7 +170,7 @@ const menu = [
         category: "Japan",
         price: 900,
         currency: "¥",
-        img: "",
+        img: "https://raw.githubusercontent.com/Overated/Asian-Kitchen/main/img/Japan/19-Miso%20Soup.jpg",
         desc: "Soup consisting of a dashi stock into which softened miso paste is mixed.",
     },
     // --------------------------- Thailand Foods ---------------------------
@@ -180,7 +180,7 @@ const menu = [
         category: "Thailand",
         price: 80,
         currency: "฿",
-        img: "",
+        img: "https://raw.githubusercontent.com/Overated/Asian-Kitchen/main/img/Thailand/20-Tom%20Yum%20Goong.jpg",
         desc: "Soup infused with lemongrass, galangal and makrut lime leaves.",
     },
     {
@@ -189,7 +189,7 @@ const menu = [
         category: "Thailand",
         price: 30,
         currency: "฿",
-        img: "",
+        img: "https://raw.githubusercontent.com/Overated/Asian-Kitchen/main/img/Thailand/21-Som%20Tam.webp",
         desc: "A green papaya salad recipe that combines all four tastes - sour, chilli, sweet and salty.",
     },
     {
@@ -198,7 +198,7 @@ const menu = [
         category: "Thailand",
         price: 50,
         currency: "฿",
-        img: "",
+        img: "https://raw.githubusercontent.com/Overated/Asian-Kitchen/main/img/Thailand/22-Pad%20Thai.jpg",
         desc: "Stir-fried rice noodles, shrimp or chicken, eggs, groundnuts, lime juice, bean sprouts, tasty tofu cubes, and onions.",
     },
     {
@@ -207,7 +207,7 @@ const menu = [
         category: "Thailand",
         price: 50,
         currency: "฿",
-        img: "",
+        img: "https://raw.githubusercontent.com/Overated/Asian-Kitchen/main/img/Thailand/23-Pad%20Kra%20Pao%20Moo.jpg",
         desc: "A spicy stir fry of ground pork and Thai basil,erving with Thai style with a crispy fried egg and steamed rice.",
     },
     {
@@ -216,7 +216,7 @@ const menu = [
         category: "Thailand",
         price: 50,
         currency: "฿",
-        img: "",
+        img: "https://raw.githubusercontent.com/Overated/Asian-Kitchen/main/img/Thailand/24-Yum%20Nua.jpg",
         desc: "Spicy Thai salad with beef, aromatics, and plenty of herbs and lime juice.",
     },
 ];
