@@ -11,57 +11,57 @@ const menu = [
     },
     {
         id: 2,
-        title: "Chicken Ramen", 
-        category: "Korea",
-        price: 7600,
-        currency: "₩",
-        img: "",
-        desc: "Chicken noodle soup, serving with vegetables such as soy bean, green onion. In an optional you can ask for egg."
-    },
-    {
-        id: 3,
         title: "Bibimbap", 
         category: "Korea",
         price: 15000,
         currency: "₩",
         img: "",
-        desc: "Boiling vegetables, serving with special hot sauce."
+        desc: "Boiling vegetables, serving with special hot sauce.",
     },
     {
-        id: 4,
+        id: 3,
         title: "Jajangmyeon", 
         category: "Korea",
         price: 3800,
         currency: "₩",
         img: "",
-        desc: "Black bean sauce noodle, serving with green onion."
+        desc: "Black bean sauce noodle, serving with green onion.",
     },
     {
-        id: 5,
+        id: 4,
         title: "Kimchi", 
         category: "Korea",
         price: 11200,
         currency: "₩",
         img: "",
-        desc: "A spicy and sour dish made up of fermented vegetables."
+        desc: "A spicy and sour dish made up of fermented vegetables.",
     },
     {
-        id: 6,
+        id: 5,
         title: "Samgyetang", 
         category: "Korea",
         price: 15000,
         currency: "₩",
         img: "",
-        desc: "A common dish particularly during the summer, samgyetang is a traditional soup made of chicken, garlic, rice, scallion, Korean jujube, Korean ginseng, and spices."
+        desc: "A common dish particularly during the summer, samgyetang is a traditional soup made of chicken, garlic, rice, scallion, Korean jujube, Korean ginseng, and spices.",
     },
     {
-        id: 7,
+        id: 6,
         title: "Samgyeopsal", 
         category: "Korea",
         price: 16000,
         currency: "₩",
         img: "",
-        desc: "Consists of grilled slices of pork belly meat that are not marinated or seasoned."
+        desc: "Consists of grilled slices of pork belly meat that are not marinated or seasoned, serving with green onion.",
+    },
+    {
+        id: 7,
+        title: "Gimbap", 
+        category: "Korea",
+        price: 5000,
+        currency: "₩",
+        img: "",
+        desc: "Cradish, steamed vegetables, ground beef, and rice rolled into a sheet of laver seaweed.",
     },
     // ---------------------------- China Foods ----------------------------
     {
@@ -71,24 +71,126 @@ const menu = [
         price: 200,
         currency: "¥",
         img: "",
-        desc: "The roast duck can be served with plum sauce or other fruit sauce."
+        desc: "The roast duck can be served with plum sauce or other fruit sauce.",
     },
     {
-        id: 8,
-        title: "Peking Roast Duck", 
+        id: 9,
+        title: "Dan Dan Mian", 
         category: "China",
+        price: 20,
+        currency: "¥",
+        img: "",
+        desc: "Dan dan noodle, serving with green onion.",
+    },
+    {
+        id: 10,
+        title: "Yangzhou Fried Rice", 
+        category: "China",
+        price: 80,
+        currency: "¥",
+        img: "",
+        desc: "Hot pepper sauce noodle, serving with soy bean and onion.",
+    },
+    {
+        id: 11,
+        title: "Hot Pot", 
+        category: "China",
+        price: 50,
+        currency: "¥",
+        img: "",
+        desc: "A simmering pot of soup at with various raw ingredients—meat, seafood, vegetables, tofu, and starches.",
+    },
+    {
+        id: 12,
+        title: "Wonton Soup", 
+        category: "China",
+        price: 50,
+        currency: "¥",
+        img: "",
+        desc: "Seasoned chicken broth with filled wontons.",
+    },
+    // ---------------------------- Japan Foods ----------------------------
+    {
+        id: 13,
+        title: "Chicken Ramen", 
+        category: "Japan",
+        price: 500,
+        currency: "¥",
+        img: "",
+        desc: "Chicken noodle soup, serving with vegetables such as soy bean, green onion. In an optional you can ask for egg.",
+    },
+    {
+        id: 14,
+        title: "Onigiri", 
+        category: "Japan",
         price: 200,
         currency: "¥",
         img: "",
-        desc: "The roast duck can be served with plum sauce or other fruit sauce."
+        desc: "Rice Sandwich, serving with soy sauce.",
     },
-    // ---------------------------- Japan Foods ----------------------------
-
-
-
+    {
+        id: 15,
+        title: "Doroyaki", 
+        category: "Japan",
+        price: 50,
+        currency: "¥",
+        img: "",
+        desc: "Red bean paste dessert, serving with honey.",
+    },
+    {
+        id: 16,
+        title: "Sushi", 
+        category: "Japan",
+        price: 10000,
+        currency: "¥",
+        img: "",
+        desc: ".",
+    },
+    {
+        id: 17,
+        title: "Yakitori", 
+        category: "Japan",
+        price: 150,
+        currency: "¥",
+        img: "",
+        desc: "Bite-sized cuts of chicken grilled on a skewer.",
+    },
+    {
+        id: 18,
+        title: "Udon", 
+        category: "Japan",
+        price: 1250,
+        currency: "¥",
+        img: "",
+        desc: "A thick noodle made from wheat flour.",
+    },
+    {
+        id: 19,
+        title: "Miso Soup", 
+        category: "Japan",
+        price: 900,
+        currency: "¥",
+        img: "",
+        desc: "Soup consisting of a dashi stock into which softened miso paste is mixed.",
+    },
     // --------------------------- Thailand Foods ---------------------------
-
-
+    {
+        id: 12321321,
+        title: "", 
+        category: "Thailand",
+        price: 500,
+        currency: "฿",
+        img: "",
+        desc: "",
+    },
     // -------------------------- Singapore Foods --------------------------
-
+    {
+        id: 12321321,
+        title: "", 
+        category: "Singapore",
+        price: 500,
+        currency: "$",
+        img: "",
+        desc: "",
+    },
 ];
