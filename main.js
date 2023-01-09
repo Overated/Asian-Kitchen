@@ -175,7 +175,7 @@ const menu = [
     },
     // --------------------------- Thailand Foods ---------------------------
     {
-        id: 12321321,
+        id: 20,
         title: "", 
         category: "Thailand",
         price: 500,
