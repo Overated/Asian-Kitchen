@@ -219,14 +219,4 @@ const menu = [
         img: "",
         desc: "Spicy Thai salad with beef, aromatics, and plenty of herbs and lime juice.",
     },
-    // -------------------------- Singapore Foods --------------------------
-    {
-        id: 25,
-        title: "", 
-        category: "Singapore",
-        price: 500,
-        currency: "$",
-        img: "",
-        desc: "",
-    },
 ];
