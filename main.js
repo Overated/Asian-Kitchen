@@ -1,4 +1,5 @@
 const menu = [
+    // ---------------------------- Korea Foods ----------------------------
     {
         id: 1,
         title: "Tteokbokki", 
@@ -62,6 +63,7 @@ const menu = [
         img: "",
         desc: "Consists of grilled slices of pork belly meat that are not marinated or seasoned."
     },
+    // ---------------------------- China Foods ----------------------------
     {
         id: 8,
         title: "Peking Roast Duck", 
@@ -69,7 +71,24 @@ const menu = [
         price: 200,
         currency: "¥",
         img: "",
-        desc: "Consists of grilled slices of pork belly meat that are not marinated or seasoned."
+        desc: "The roast duck can be served with plum sauce or other fruit sauce."
     },
+    {
+        id: 8,
+        title: "Peking Roast Duck", 
+        category: "China",
+        price: 200,
+        currency: "¥",
+        img: "",
+        desc: "The roast duck can be served with plum sauce or other fruit sauce."
+    },
+    // ---------------------------- Japan Foods ----------------------------
+
+
+
+    // --------------------------- Thailand Foods ---------------------------
+
+
+    // -------------------------- Singapore Foods --------------------------
 
 ];
